@@ -10,5 +10,6 @@ RUN apt-get -y install openmpi-bin libopenmpi-dev
 RUN apt-get -y install libblas-dev liblapack-dev
 RUN apt-get -y install cmake
 RUN apt-get -y install python3.11-venv
+RUN apt-get -y install git
 
 
