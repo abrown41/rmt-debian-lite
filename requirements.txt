@@ -1,0 +1,9 @@
+# List required packages in this file, one per line.
+
+pandas <=2.1.1
+numpy
+matplotlib
+pathlib
+f90nml
+pyyaml
+pytest
