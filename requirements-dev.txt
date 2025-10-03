@@ -8,6 +8,8 @@ fypp
 twine
 versioneer
 mock
+meson
+ninja
 # These are dependencies of various sphinx extensions for documentation.
 ipython
 matplotlib
